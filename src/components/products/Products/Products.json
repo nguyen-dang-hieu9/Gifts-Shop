@@ -29,12 +29,12 @@
             "Capacity: 12 fluid ounces",
             "Enamel mug is covered with genuine leather."
         ],
-        "files":"/data/EtsyGifts/Mugs/Enamel-Mug/Enamel-Mug.docx"
+        "file":"/data/EtsyGifts/Mugs/Enamel-Mug/Enamel-Mug.docx"
     },
     {
         "id" : 2,
         "name" : "Coffee Mug",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -61,12 +61,12 @@
             "8 oz stainless steel water tumbler with label craftsmanship, simple and beautiful."
         ]
         ,    
-        "files":"/data/EtsyGifts/Mugs/Coffee-Mug/Coffee-Mug.docx"
+        "file":"/data/EtsyGifts/Mugs/Coffee-Mug/Coffee-Mug.docx"
     },
     {
         "id" : 3,
         "name" : "Bookshelf Mug",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -128,7 +128,7 @@
     {
         "id" : 5,
         "name" : "Business Card",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -159,7 +159,7 @@
     {
         "id" : 6,
         "name" : "Greeting Card",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -223,7 +223,7 @@
     {
         "id" : 8,
         "name" : "Flower Bracelet",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -254,7 +254,7 @@
     {
         "id" : 9,
         "name" : "Birthstone Bracelet",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -286,7 +286,7 @@
     {
         "id" : 10,
         "name" : "Teddy Bear Flying Rainbow Balloons",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -348,7 +348,7 @@
     {
         "id" : 12,
         "name" : "Porcelain Balloon",
-        "top" :1,
+        "top" :2,
         "brand" : 
             {   "id" : 3,
                 "name" : "Etsy Gifts"
@@ -377,5 +377,1213 @@
 
         ],
         "files":"/data/EtsyGifts/Balloons/Porcelain-Balloon/Porcelain-Balloon.docx"
+    },
+    {
+        "id": 13,
+        "name": "Personalised Premium Couple Mugs - Polka Dot",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "16.77",
+        "status": "",
+        "desc": [
+            "A perfect gift for that perfect couple on weddings or anniversaries. Each mug comes with a lid and metal spoon"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/4.jpg"
+            }
+        ],
+        "detail": [
+            "material: Ceramic Mug with Gold Foil Printing ",
+            "Capacity : 300ml",
+            "size: 14cm (w) x 8.5cm (w) x 8.3cm (d)",
+            "Not suitable for microwave or oven",
+            "Gift set comes with complimentary gift card and box."
+        ],
+        "file": "/data/GiftrGifts/Mugs/CoupleMugs-PolkaDot/CoupleMugs-PolkaDot.docx"
+    },
+    {
+        "id": 14,
+        "name": "Personalised Coffee Mug",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "10.47",
+        "status": "New",
+        "desc": [
+            "Features a personalised gift box with Personalised Coffee Mug"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/5.jpg"
+            },
+            {
+                "id": "6",
+                "name": "pic6",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/6.jpg"
+            }
+        ],
+        "detail": [
+            "Features a gift box with 1 personalized mug",
+            "250ml mug and approx 12cm height.",
+            "Includes: 1 personalized mug, 1 gift box, and 1 gift card",
+            "Personalization is using the high quality of Vinyl Decal.",
+            "Care: Not Dishwasher or Not Microwave Safe. Please gently hand wash only."
+        ],
+        "file": "/data/GiftrGifts/Mugs/PersonalisedCoffeeMug/PersonalisedCoffeeMug.docx"
+    },
+    {
+        "id": 15,
+        "name": "Juice Be Yourself Personalised Mug",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
+        "price": "10.50",
+        "status": "",
+        "desc": [
+            "Tell Mom how much she means to us with this statement mug. This quirky and fun mug will surely put a smile on mom's face. Personalise it to make it extra special!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/2.jpg"
+            }
+        ],
+        "detail": [
+            "Material: Sublimated coffee mug",
+            "Size: 11oz",
+            "Microwave safe"
+        ],
+        "file": "/data/GiftrGifts/Mugs/JuiceBeYourselfPersonalisedMug/JuiceBeYourself-Mug.docx"
+    },
+    {
+        "id": 16,
+        "name": "Personalized Wooden Bracelet Box",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "23.8",
+        "status": "New",
+        "desc": [
+            "Ever think of a delicate and yet practical gift for her? Then you must consider this unique wooden bracelet box! The black walnut wood material gives it a classic feel. The high-quality velvet inside will protect your bracelet from scratches."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBox/3.jpg"
+            }
+        ],
+        "detail": [
+            "Made of black walnut wood",
+            "Dimensions: 10.3 cm (L) x 10.3 cm (W) x 3.6 cm (H)",
+            "Magnetic lift lid",
+            "Lined with high-quality velvet",
+            "Comes with a gift box with a ribbon",
+            "NSJ products are engraved with the NSJ logo and packed in NSJ packaging boxes"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/PersonalizedWoodenBraceletBo/Wooden.docx"
+    },
+    {
+        "id": 17,
+        "name": "Dino Dinosaur Charm Bracelet",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "15.95",
+        "status": "",
+        "desc": [
+            "Featuring a dinosaur charm and an adjustable bracelet, this piece of jewelry is sure to make a statement. Show your love for dinosaurs, or just add a fun touch to your outfit!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/4.jpg"
+            }
+        ],
+        "detail": [
+            "Materials: dinosaur cubic zircon charms",
+            "Measure: Approx. 18.5 cm",
+            "Color may differ between screen",
+            "Item come with gift box"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/DinoDinosaurCharmBracelet/DinoBracalet.docx"
+    },
+    {
+        "id": 18,
+        "name": "Kelvin Gems Crossly Swarovski Crystal Pearl Bracelet",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 2,
+            "name": "Bracalets"
+        },
+        "price": "27.71",
+        "status": "New",
+        "desc": [
+            "2 rows of Swarovski pearls held together with our cross findings give this bracelet a bangle-like feel. This magnificent bracelet will draw attention to your sexy wrist against a little black dress."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/4.jpg"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/5.jpg"
+            }
+        ],
+        "detail": [
+            "Pearl Size : 8mm",
+            "Colour : Golden / Light Blue / Platinum",
+            "Length : 17cm/18cm/19cm",
+            "Clasp Material : Brass",
+            "Clasp Type : Fold-over Clasp",
+            "Clasp Plating : Rhodium Plating (18K White Gold Plated)",
+            "Re-sizable : Yes",
+            "Weight : 17.50g"
+        ],
+        "file": "/data/GiftrGifts/Bracelets/KelvinGemsCrosslySwarovskiCrystalPearlBracelet/KevinGems.docx"
+    },
+    {
+        "id": 19,
+        "name": "IKEA Gift Card",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
+        "price": "27.08",
+        "status": "",
+        "desc": ["Perfect gift for a housewarming or newlywed couple."],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/IKEAGiftCard/4.png"
+            }
+        ],
+        "detail": [
+            "Perfect gift for a housewarming or newlywed couple.",
+            "Choose your preferred voucher values of RM100, RM200, RM300, and RM500",
+            "Giftr is not associated with IKEA.",
+            "Price includes the service fee, which consists of store visits, parking fees, queuing and paying, packing & delivery arrangements.",
+            "Gift Cards & Vouchers can't be purchased using BNPL payment options (i.e. Atome, GrabPay Postpaid, PayLater by Grab)",
+            "FREE shipping to West Malaysia only"
+        ],
+        "file": "/data/GiftrGifts/Cards/IKEAGiftCard/IKEACard.docx"
+    },
+    {
+        "id": 20,
+        "name": "Giftr's Gift Card",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
+        "price": "21.14",
+        "desc": [
+            "Give them the gift of choice with Giftr's gift card. Send this to someone as a gift and they can use it on their preferred gift on Giftr!",
+            "Shopping for someone else but not sure what to give them?"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Cards/GiftrsGiftCard/1.png"
+            }
+        ],
+        "detail": [
+            "The gift card will be sent to the buyer's email (which is you). We are unable to send the email to the recipient as the code is secured and we would not have access to the code as well.",
+            "You can then forward the Gift Card to the recipient.",
+            "Limited to only 1 recipient per order. Gift cards for multiple recipients must be secured in different orders."
+        ],
+        "files": "/data/GiftrGifts/CardsGiftrsGiftCard/GiftrsGiftCard.docx"
+    },
+    {
+        "id": 21,
+        "name": "18\" Bobo Balloon",
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "14.80",
+        "desc": ["Customize for balloon brithday"],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/18BoboBalloon/1.jpg"
+            }
+        ],
+        "detail": [
+            "1pcs x 18\" Bobo Balloon With Wording",
+            "Comes With Ribbon and Weights"
+        ],
+        "files": "/data/GiftrGifts/Balloons/18BoboBalloon/18Bobo.docx"
+    },
+    {
+        "id": 22,
+        "name": "Chrome Balloon Flower Bouquet",
+        "top": 1,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "16.70",
+        "desc": [
+            "Our Balloon Flower Bouquet is more than just a gift; it's a memorable experience that your dad will cherish. Whether he chooses to display it in his office or enjoy it at home, this bouquet is sure to become a conversation starter and a source of joy for him."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/3.jpg"
+            }
+        ],
+        "detail": [
+            "It comes with 2 option:",
+            "3 Stalks of Balloon Flower",
+            "6 Stalks of Balloon Flower",
+            "It is wrapped with flower wrapper and tied with Premium Ribbon"
+        ],
+        "files": "/data/GiftrGifts/Balloons/BalloonFlowerBouquet/BalloonFlower.docx"
+    },
+    {
+        "id": 23,
+        "name": "Customised 'Happy Birthday' Bubble Balloon Package (Black & Grey)",
+        "top": 2,
+        "brand": {
+            "id": 2,
+            "name": "Giftr Gifts"
+        },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
+        "price": "42.08",
+        "desc": [
+            "Customised 'Happy Birthday' Bubble Balloon Package"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/2.jpg"
+            }
+        ],
+        "detail": [
+            "Features Black & Grey bubble balloon package as below: ",
+            "1 x 24\" bubble balloon with mini balloons filling, customisable with birthday boy/girl's name.",
+            "5 x Helium balloons",
+            "Name to be on the bubble balloon",
+            "Balloons can only last up to 8 hours"
+        ],
+        "files": "/data/GiftrGifts/Balloons/CustomisedBubbleBalloon/BubbleBalloon.docx"
+    },
+    {
+        "id": 24,
+        "name": "Football Style Christmas Card",
+        "top": 2,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 5,
+            "name": "Christmas card"
+        },
+        "price": "95,611",
+        "status": "New",
+        "desc": [
+            "This Christmas Card is perfect for your creative Christmas greeting"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard4.png"
+            }
+        ],
+        "detail": 
+             [
+                "Paper Type: Matte",
+                "Size: 6” x 6” Linen Card",
+                "High quality, full-color, full-bleed printing on both sides",
+                "300gsm Card with 120gsm envelope",
+                "Recycled, Made in the U.K"
+            ]
+        ,
+        "file": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard.docx"
+    },
+    {
+        "id": 25,
+        "name": "Nutcracker Christmas Card",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 5,
+            "name": "Christmas card"
+        },
+        "price": "109,718",
+        "status": "New",
+        "desc": ["The perfect Christmas card for any Beatles Superfan!"],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard3.png"
+            }
+        ],
+        "detail": 
+            [
+                "Paper Type: Matte",
+                "Size: 5' L x 7' H (portrait); 7' L x 5' H (landscape)",
+                "A classic, all around paper with a natural feel and an uncoated matte finish",
+                "Paper is easy to write on and won't smudge",
+                "Made and printed in the USA"
+            ],
+        "file": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard.docx"
+    },
+    {
+        "id": 26,
+        "name": "Merry Christmas Grandson",
+        "top": 2,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 5,
+            "name": "Christmas card"
+        },
+        "price": "78,370",
+        "status": "New",
+        "desc": [
+            "Spread joy, share cheer, merry everything and a happy always! H"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson3.png"
+            }
+        ],
+        "detail": 
+            [
+                "Paper Type: Semi-Gloss",
+                "Size: 4.5' L x 6.25' H (portrait); 6.25' L x 4.5' H (landscape)",
+                "Add photos and text for no additional charge",
+                "50% recycled content",
+                "Paper imported from Italy; printed in the USA"
+            ],
+        "file": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson.docx"
+    },
+    {
+        "id": 27,
+        "name": "Engraved Leather Wallet",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 6,
+            "name": "Wallet"
+        },
+        "price": "186,869",
+        "status": "New",
+        "desc": [
+            "Find the perfect leather wallet that speaks to your unique style."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet5.png"
+            }
+        ],
+        "detail": 
+            [
+                "Made from high-quality real leather for excellent quality",
+                "Soft and durable, designed to last with precise stitching and strong construction",
+                "Neatly finished edges for a polished appearance",
+                "Materials: Primary fabric type: Leather",
+                "Lightweight design ensures it's easy to use every day without being bulky"
+            ],
+        "file": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet.docx"
+    },
+    {
+        "id": 28,
+        "name": "Antic Mocha Leather RFID blocking wallet ",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 6,
+            "name": "Wallet"
+        },
+        "price": "935,606",
+        "status": "New",
+        "desc": [
+            "Durable to use, with a vintage look that never goes out of style, this cardholder offers 10+ card slots. Handmade with love and care from the best quality leather for everlasting usage and quality. An exceptional cardholder for yourself or your loved ones. "
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet5.png"
+            }
+        ],
+        "detail": 
+            [
+                "RFID blocking for contact-less credit and ID cards",
+                "Pop up aluminum credit card case with anti-skimming protection",
+                "Holds 10+ credit cards, the pop-up case holds 5-6 cards, plus 5 card slots and a wallet part to put cash or additional credit cards",
+                "Materials: RFID Blocking, Pop up aluminium frame, Antic Leather",
+                "Slim design to carry with you all the time"
+            ],
+        "file": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet.docx"
+    },
+    {
+        "id": 29,
+        "name": "Leather wallet for men",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 6,
+            "name": "Wallet"
+        },
+        "price": "3,542,234",
+        "status": "New",
+        "desc": [
+            "Its compact format delight whose carry a lot in minimum space!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen5.png"
+            }
+        ],
+        "detail": 
+            [
+                "Product dimensions Open: 18 x 11.5 cm",
+                "Product dimensions Closed: 9 x 11.5 cm",
+                "All my creations are handmade, handcrafted, respecting the traditions of my craft as a leather craftsman",
+                "Materials: Badalassi Carlo leather",
+                "The products are cut, worked and assembled by hand"
+            ],
+        "file": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen.docx"
+    },
+    {
+        "id": 30,
+        "name": "DODO DEER Wooden Watch",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 7,
+            "name": "Watch"
+        },
+        "price": "984,375",
+        "status": "New",
+        "desc": [
+            "Perfect blend of imported technology, highest craftsmanship."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch5.png"
+            }
+        ],
+        "detail": 
+            [
+                "Imported Technology and highest standards of craftsmanship",
+                "Watch Face Diameter: 44mm",
+                "Case Thickness: 11mm",
+                "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm (additional bracelet can be added)",
+                "Materials: Stainless steel, Wood"
+            ],
+        "file": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch.docx"
+    },
+    {
+        "id": 31,
+        "name": "Paul Tian Groomsmen Watch",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 7,
+            "name": "Watch"
+        },
+        "price": "1,136,111",
+        "status": "New",
+        "desc": [
+            "Paul Tian Groomsmen is a big-faced timepiece that never go out of style."
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch5.png"
+            }
+        ],
+        "detail":[
+                "Mineral Crystal Glass",
+                "Precise Miyota Movement",
+                "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm and it's made with Wood and Steel. The size is adjustable by a tool provided in the box.",
+                "Case Thickness: 11mm",
+                "Watch Face Diameter: 44mm",
+                "Made from Premium Indonesian Blackwood"
+            ],
+        "file": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch.docx"
+    },
+    {
+        "id": 32,
+        "name": "Vincent Automatic Watch",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 7,
+            "name": "Watch"
+        },
+        "price": "2,083,081",
+        "status": "New",
+        "desc": [
+            "Best selling for Christmas 2023 for your husband, brother and family "
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch5.png"
+            },
+            {
+                "id": "6",
+                "name": "pic6",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch6.png"
+            },
+            {
+                "id": "7",
+                "name": "pic7",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch7.png"
+            },
+            {
+                "id": "8",
+                "name": "pic8",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch8.png"
+            }
+        ],
+        "detail": [
+                "Material: Wood, Stainless steel",
+                "Band length: 22 cm / 8.7 inch",
+                "Band width: 13.8 mm / 0.7 inch",
+                "Dial size: 47 mm / 1.8 inch",
+                "Case thickness: 14 mm / 0,5 inch",
+                "12-month Warranty. If your watch is out of warranty, we offer repair services"
+            ],
+        "file": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch.docx"
+    },
+    {
+        "id": 33,
+        "name": "Leather Keychain",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 8,
+            "name": "Keychain"
+        },
+        "price": "347.727",
+        "status": "New",
+        "desc": [
+            "This heavy duty keychain is the perfect piece to go with your keys!"
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain5.png"
+            }
+        ],
+        "detail": [
+                "Material: leather, horween leather, genuine leather, metal, keyring",
+                "5' x 1'",
+                "Up to 10 characters per line. (2 line max.)",
+                "Handmade in my studio"
+            ],
+        "file": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain.docx"
+    },
+    {
+        "id": 34,
+        "name": "Wood keychain",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 8,
+            "name": "Keychain"
+        },
+        "price": "514,986",
+        "status": "New",
+        "desc": ["Beautiful partner keychain made of walnut wood."],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain5.png"
+            },
+            {
+                "id": "6",
+                "name": "pic6",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain6.png"
+            },
+            {
+                "id": "7",
+                "name": "pic7",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain7.png"
+            }
+        ],
+        "detail": [
+                "Material: wood",
+                "The dimensions of each pendant: 6.5 x 1.8 cm",
+                "Handmade",
+                "Each key ring becomes absolutely unique thanks to the engraving you want ♥"
+            ],
+        "file": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain.docx"
+    },
+    {
+        "id": 35,
+        "name": "Husky keychains",
+        "top": 1,
+        "brand": {
+            "id": 1,
+            "name": "Zazzle Gifts"
+        },
+        "categories": {
+            "id": 8,
+            "name": "Keychain"
+        },
+        "price": "871,473",
+        "status": "New",
+        "desc": [
+            "This lovely personalized keychain is made entirely of 100% natural leather. "
+        ],
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain1.png"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain2.png"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain3.png"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain4.png"
+            },
+            {
+                "id": "5",
+                "name": "pic5",
+                "use": "desc",
+                "path": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain5.png"
+            }
+        ],
+        "detail": [
+                "Material: Genuine Leather, Cotton Velveteen",
+                "Size: 6.5cm x 6.5cm",
+                "Handmade",
+                "This design can also be used as a handbag charm to add style to your bag - a lovely bag charm",
+                "This lovely leather keychain is handcrafted from high quality leather",
+                "It's filled with cotton fleece for a 3D look and soft feel."
+            ],
+        "file": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain.docx"
     }
+
 ]

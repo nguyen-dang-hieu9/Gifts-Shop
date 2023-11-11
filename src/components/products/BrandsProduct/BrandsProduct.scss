@@ -1,0 +1,45 @@
+.bestsaler{
+    position: relative;
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    &-button{
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        a{
+            color: #5c5c5c;
+            text-decoration: none;
+        }
+    }
+    &-logo{
+        width: 180px;
+        height: 100px;
+        display: flex;
+        float: right;
+    }
+    &-brandname{
+        text-align: center;
+        font-size: 50px;
+        font-family: Garamond;
+    }
+    &-bestsaler-{
+        margin-bottom: 20px;
+    }
+    &-container{
+        display: flex;
+        padding-top: 50px;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        &-item{
+            margin: 3px;
+            max-width:20rem;
+            font-size:medium;
+        }
+    }
+    
+}

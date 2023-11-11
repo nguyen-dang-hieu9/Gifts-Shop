@@ -33,7 +33,7 @@ function ProductDetailsItems(props) {
                 <p  className='productdetails-button-p' >Add To Cart</p>
                 <img src={carticon} alt="carticon" className='productdetails-button-icon' />
             </button>
-            <button className='productdetails-button-addToCart'>
+            <button className='productdetails-button-addToCart' onClick={()=>props.handleAddComp(item.id)}>
                 <p  className='productdetails-button-p'>Compare</p>
                 <img src={compareicon} alt="compareicon" className='productdetails-button-icon' />
             </button>

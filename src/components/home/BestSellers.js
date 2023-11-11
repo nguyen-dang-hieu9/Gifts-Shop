@@ -4,7 +4,7 @@ import Products from '../products/Products/Products.json'
 import { Link } from 'react-router-dom'
 import ProductDetailsItems from '../products/ProductDetailsCard/ProductDetailsItems';
 
-function BestSellers() {
+function BestSellers({handleAddComp,handleCarts}) {
     let topProducts = Products.filter((items) => items.top ===1);
     console.log(topProducts);
   return (
@@ -20,7 +20,7 @@ function BestSellers() {
             {topProducts.map((items,index) =>{
                 return(
                     <div className='bestsaler-container-item' key={index}>
-                        <ProductDetailsItems id={items.id} name={items.name} price={items.price} status={items.status} brand={items.brand.name} images={items.images[0].path}/>
+                        <ProductDetailsItems id={items.id} name={items.name} price={items.price} status={items.status} brand={items.brand.name} images={items.images[0].path} handleAddComp={handleAddComp} handleCarts={handleCarts}/>
                     </div>
 
                 )

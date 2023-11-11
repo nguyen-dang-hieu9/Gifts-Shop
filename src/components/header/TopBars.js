@@ -18,7 +18,6 @@ function TopBars(handleSeachProduct) {
             </div>
             <div className="top-bar-right">
                 <div className="title-bar" style={{ color: "#515151" }}>
-                    {/* <p>{ registerUser !== undefined ? registerUser.name : ''}</p> &ensp; */}
                     &ensp;
                     <i
                         className="fa-solid fa-user cart"
@@ -28,15 +27,14 @@ function TopBars(handleSeachProduct) {
                     </i>
                 </div>
                 <div className="top-bar-right-cart">
-                    {/* <Link to=''> */}
+                    
                     <i
                         className="fa-solid fa-cart-plus cart"
                         style={{ color: "#515151" }}
                     >
                         &emsp;
                     </i>
-                    {/* </Link> */}
-                    {/* <div className="top-bar-right-cart-index" ><p style={{color: indexofCart===0? '#cecece' : null }}>+{indexofCart}</p></div> */}
+                    
                 </div>
                 <div className="top-bar-find">
                     <Link to="contact">

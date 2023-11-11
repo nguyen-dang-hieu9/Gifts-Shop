@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import Products from "../Products/Products.json"; 
 import "./ProductDetails.scss"
@@ -9,11 +9,8 @@ import SliderProducts from '../SliderProducts/SliderProducts'
 function ProductDetails() {
   const data = Products;
   const keypara = useParams();
-  const id = keypara.id;
   let item = data.filter((item) => item.id === parseInt(keypara.id) );
-  let imgPreview = item[0].images[0];
-  let name = item[0].name;
-  let price = item[0].price;
+
   let handleAdd = () =>{
     setNumberProduct(numberProduct + 1)
   }

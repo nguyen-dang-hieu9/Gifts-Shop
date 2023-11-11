@@ -15,11 +15,11 @@
 Gift Shop is a shop and stall specializing in selling souvenirs, gift items and gifts. Gift Shops appear in many places, places with a large number of visitors. Sales staff for the Gift Shop are called souvenir counter staff, their main job is to introduce and sell souvenir products and gifts.
   <br  />
   <a  href="https://github.com/nguyen-dang-hieu9/Gifts-Shop"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/tree/0bdf01110342da7cd513cae701f6f8eed61816cd/documents" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="document" target="_blank"><strong>Explore the documents »</strong></a>
 
   <br  /><a  href="https://gifts-shop.vercel.app/" target="_blank">View Demo</a>  . <a  href="" target="_blank">Video</a>
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="[https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png](https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/public/images/gifts-shop.vercel.app_.png)"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:

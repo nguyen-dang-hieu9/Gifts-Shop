@@ -61,11 +61,11 @@ There should be a “Contact Us” page which will have the Address of the Compa
 </ol>
 
  ## Members of group
- ### Leader : Nguyen Dang Hieu `Student1477171`
+ ### Leader : Nguyen Dang Hieu `Student1491744`
 #### Members:
-Vo Huu Loc `Student1477551` </br>
-Pham Ngoc Duc `Student1477471` </br>
-Trần Việt Khôi `Student1477470` </br>
+Vo Huu Loc `Student1491495` </br>
+Pham Ngoc Duc `Student1491493` </br>
+Tran Thanh La `Student1491718` </br>
 
 
 

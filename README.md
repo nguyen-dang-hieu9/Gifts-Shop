@@ -19,7 +19,7 @@ Gift Shop is a shop and stall specializing in selling souvenirs, gift items and 
 
   <br  /><a  href="https://gifts-shop.vercel.app/" target="_blank">View Demo</a>  . <a  href="" target="_blank">Video</a>
 
-<img  src="[https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png](https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/public/images/gifts-shop.vercel.app_.png)"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/public/images/gifts-shop.vercel.app_.png"  alt="Logo"  width="768px"  height="auto">
 
   ### Built With
   Below is the languages/libraries we used for this project:

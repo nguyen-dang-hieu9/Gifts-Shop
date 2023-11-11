@@ -11,16 +11,17 @@ function ProductDetailsItems(props) {
   return (
     <div className="productdetails">
         <div className="productdetails-avatar">
-            <div className='productdetails-avatar-flag'>
+            {item.status === "New" && <div className='productdetails-avatar-flag'>
                 <span className='productdetails-avatar-flag-text'>{item.status}</span>
-            </div>
+            </div>}
             <img src={item.images} alt='items' className='productdetails-avatar-img' />
         </div>
         <div className='productdetails-content'>
-            <h4 className='productdetails-content-h4' >{item.name}</h4>
-            <h5 className='productdetails-content-h5'>{item.categories}</h5>
+            <Link to={`/products/detail/${item.id}`}><h4 className='productdetails-content-h4'>{item.name}</h4></Link>
+            {/* <h5 className='productdetails-content-h5'>{item.categories}</h5> */}
             <h5 className='productdetails-content-h5'>{item.brand}</h5>
             <h3 className='productdetails-content-h3'>Price :{item.price}$</h3>
+            <h5 className='productdetails-content-desc'>{item.desc}</h5>
         </div>
         <div className='productdetails-button' >
             <Link to={`./detail/${item.id}`} className='productdetails-button-details'>

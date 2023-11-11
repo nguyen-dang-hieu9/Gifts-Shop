@@ -1,15 +1,15 @@
-.productdetails{
+.productdetails {
     min-width: 17rem;
     min-height: 29rem;
     background-color: rgb(255, 255, 255);
     border-radius: 7px;
     margin: 3px;
-    &-avatar{
+    &-avatar {
         width: 100%;
         min-height: 17rem;
         overflow: hidden;
         position: relative;
-        &-flag{
+        &-flag {
             position: absolute;
             top: 30px;
             left: 0px;
@@ -17,56 +17,69 @@
             width: 50px;
             height: 24px;
             border-radius: 0px 3px 3px 0px;
-            &-text{
+            &-text {
                 font-weight: 600;
-               
             }
         }
-        &-img{
+        &-img {
             width: 314px;
             height: 314px;
             object-fit: cover;
             border-radius: 7px 7px 0px 0px;
         }
     }
-    &-content{
+    &-content {
         margin: 10px;
         padding: 0px;
         border-radius: 7px;
         background-color: rgb(225, 225, 225);
         text-align: left;
-        &-h3{
-            margin: 3px;
+        &-h3 {
+            margin: 3px 10px;
         }
-        &-h4{
+        &-h4 {
             margin: 3px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            color: #515151;
         }
-        &-h5{
+        & a{
+            text-decoration: none;
+        }
+        &-h5 {
             margin: 3px;
             font-weight: 500;
         }
-        &-color{
+        &-desc {
+           margin-left: 10px;
+            padding-bottom: 4px;
+            overflow: hidden;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            display: -webkit-box;
+        }
+        &-color {
             margin: 3px;
         }
-        &-rating{
+        &-rating {
             margin: 3px;
         }
     }
-    &-button{
+    &-button {
         height: 42px;
         display: flex;
         flex-direction: row;
         width: 100%;
-       
-        a{
+
+        a {
             text-decoration: none;
-            
         }
-        :hover{
+        :hover {
             color: #ffffff;
             background-color: #59bfd3df;
         }
-        &-details{
+        &-details {
             height: 28px;
             margin: 5px;
             border-radius: 14px;
@@ -78,7 +91,7 @@
             align-items: center;
             cursor: pointer;
         }
-        &-addToCart{
+        &-addToCart {
             height: 28px;
             margin: 5px;
             border-radius: 14px;
@@ -90,13 +103,12 @@
             align-items: center;
             cursor: pointer;
         }
-        &-p{
+        &-p {
             font-size: 14px;
             font-weight: 600;
-            display:contents;
-            
+            display: contents;
         }
-        &-icon{
+        &-icon {
             margin: 3px;
             width: 18px;
             height: 18px;

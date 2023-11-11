@@ -1,5 +1,4 @@
 import React from 'react';
-import { useLocation } from 'react-router-dom';
 import './Header.scss';
 import TopBars from './TopBars'
 import NavMain from '../navigation/NavMain'

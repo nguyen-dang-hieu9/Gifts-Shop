@@ -61,7 +61,7 @@ function ProductDetails() {
               </div>
 
           </div>
-          <Link to={item[0].files} target="_blank" download>Download Information Product &emsp;
+          <Link to={item[0].file} target="_blank" download>Download Information Product &emsp;
             <i className="fa-solid fa-download"></i>
           </Link>
 

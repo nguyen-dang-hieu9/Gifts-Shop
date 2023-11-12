@@ -14,6 +14,7 @@ import BrandsProduct from "./components/products/BrandsProduct/BrandsProduct";
 import AboutUs from "./components/aboutUs/AboutUs";
 import ProductsComparison from "./components/products/ProductsComparison/ProductsComparison";
 import React from "react";
+import ScrollToTop from "./components/scrollToTop/ScrollToTop";
 
 function App() {
     // const [ cart, setCart] = useState([]);
@@ -34,6 +35,7 @@ function App() {
     };
     return (
         <Router>
+            <ScrollToTop/>
             <div className="App">
                 {/* <Header indexofCart={cart.length} /> */}
                 <Header />

@@ -8,7 +8,7 @@ const Categories = ({handleAddComp}) => {
     let items = dataProduct.filter((item) => item.categories.id == id);
     return (
         <div className="product">
-            <h2>{items[0].categories.name}</h2>
+            <h1 className="product-title">{items[0].categories.name}</h1>
             <div className="product-container">
                 {items.map((items, index) => {
                     return (

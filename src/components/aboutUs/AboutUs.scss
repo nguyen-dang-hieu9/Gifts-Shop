@@ -1,7 +1,17 @@
 .aboutus-img {
     display: block;
     margin: 5px auto;
+    &-full{
+        width: 100%;
+        height: auto;
+    }
 }
 .text-aboutus {
     text-align: center;
+}
+.video{
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: 5px auto;
 }

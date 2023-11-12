@@ -32,7 +32,7 @@ function ProductsComparison(props) {
                             <th>Attribute</th>
                             {temp.map((item,index) =>{
                                 return(
-                                    <th key={item.id}>{item.name}</th>
+                                    <th key={index}>{item.name}</th>
                                 )
                             })}
                         </tr>

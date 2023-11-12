@@ -1,11 +1,11 @@
 import React from "react";
 import dataProduct from "./Products.json";
 import ProductDetailsItems from "../ProductDetailsCard/ProductDetailsItems";
-import './ProductsPage.scss'
-import Pagination from '../../pagination/Pagination'
-import { useState } from "react";
+import "./ProductsPage.scss";
+import Pagination from "../../pagination/Pagination";
+import { useState, useEffect } from "react";
 
-const Products = ({handleAddComp}) => {
+const Products = ({ handleAddComp }) => {
     const PER_PAGE = 8;
     const [currentPage, setcurrentPage] = useState(0);
     const handPageClick = ({ selected: selecTedPage }) => {
@@ -14,6 +14,10 @@ const Products = ({handleAddComp}) => {
     const offset = currentPage * PER_PAGE;
     const currentPageData = dataProduct.slice(offset, offset + PER_PAGE);
     const pageCount = Math.ceil(dataProduct.length / PER_PAGE);
+
+    useEffect(() => {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+    }, [currentPage]);
     return (
         <div className="product">
             <h1 className="product-title">Product</h1>
@@ -37,8 +41,11 @@ const Products = ({handleAddComp}) => {
                 })}
             </div>
             <div className="card pagination">
-            <Pagination pageCount={pageCount} handPageClick={handPageClick} />
-          </div>
+                <Pagination
+                    pageCount={pageCount}
+                    handPageClick={handPageClick}
+                />
+            </div>
         </div>
     );
 };

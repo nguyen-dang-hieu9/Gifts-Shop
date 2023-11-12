@@ -7,7 +7,7 @@ import { useState } from "react";
 
 const Products = ({handleAddComp}) => {
     const PER_PAGE = 8;
-    const [currentPage, setcurrentPage] = useState(1);
+    const [currentPage, setcurrentPage] = useState(0);
     const handPageClick = ({ selected: selecTedPage }) => {
         setcurrentPage(selecTedPage);
     };
@@ -16,7 +16,7 @@ const Products = ({handleAddComp}) => {
     const pageCount = Math.ceil(dataProduct.length / PER_PAGE);
     return (
         <div className="product">
-            <h3>Product</h3>
+            <h1 className="product-title">Product</h1>
             <div className="product-container">
                 {currentPageData.map((items, index) => {
                     return (

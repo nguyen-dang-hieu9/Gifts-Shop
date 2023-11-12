@@ -1,5 +1,5 @@
 import ReactPaginate from "react-paginate";
-import "./pagination.css";
+import "./pagination.scss";
 
 function Pagination({ pageCount, handPageClick }) {
   return (
@@ -9,6 +9,9 @@ function Pagination({ pageCount, handPageClick }) {
         breakClassName="break-class"
         activeClassName="activepagination"
         containerClassName={"pagination"}
+        pageLinkClassName="buttonPage"
+        previousLinkClassName="buttonPage"
+        nextLinkClassName="buttonPage"
         nextLabel="next >"
         onPageChange={handPageClick}
         pageRangeDisplayed={5}

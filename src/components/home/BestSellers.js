@@ -9,7 +9,7 @@ function BestSellers({handleAddComp,handleCarts}) {
     console.log(topProducts);
   return (
     <div className='bestsaler'>
-        <h3>Best Salers</h3>
+        <h1 className='bestsaler-title'>Best Salers</h1>
         <h5 className='bestsaler-button'>
            <Link to="/products" >
                 More... &nbsp;

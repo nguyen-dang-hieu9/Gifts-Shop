@@ -36,12 +36,12 @@ function ContactUs() {
                     <p>
                         <i className="fa-solid fa-phone"></i>
                         <strong>&nbsp; Phone:&nbsp;&nbsp;&nbsp;</strong>
-                        097 729 8513
+                        086 618 6503
                     </p>
                     <p>
                         <i className="fa-solid fa-at"></i>
                         <strong>&nbsp; Email:&nbsp;&nbsp;&nbsp;</strong>
-                        durableFurnitures@email.com.vn
+                        GiftShop@email.com.vn
                     </p>
                    
                 </div>

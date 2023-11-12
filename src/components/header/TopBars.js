@@ -6,7 +6,7 @@ import LogoMain from "./LogoMain";
 import "../../styles/VariableStyle.scss";
 
 function TopBars(handleSeachProduct) {
-    let location = useLocation().pathname;
+    // let location = useLocation().pathname;
 
     return (
         <div className="top-bar">

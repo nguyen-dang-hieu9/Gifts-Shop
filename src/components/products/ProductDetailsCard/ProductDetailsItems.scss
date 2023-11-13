@@ -2,8 +2,10 @@
     min-width: 17rem;
     min-height: 29rem;
     background-color: rgb(255, 255, 255);
+    border: 1px solid #bebebe;
     border-radius: 7px;
     margin: 3px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     &.productdetails:hover{
         scale: 1.05;
     }

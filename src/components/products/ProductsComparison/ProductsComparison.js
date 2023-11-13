@@ -1,7 +1,7 @@
 import React from 'react'
 import './ProductsComparison.scss'
 import imgbanner1 from '../../../assets/images/Comparison/banner-comparison.png'
-import imgbanner2 from '../../../assets/images/Comparison/banner2.png'
+// import imgbanner2 from '../../../assets/images/Comparison/banner2.png'
 function ProductsComparison(props) {
     let temp = props.dataComparison;
     let handleDelitem =(id)=>{
@@ -13,7 +13,6 @@ function ProductsComparison(props) {
                 <img src={imgbanner1} alt="bannercomp" />
                 <h3>No products. Please add products...</h3>
                 <p>*Please return to the product page and click on the Compare button to select the product to compare. You should only choose a maximum of 5 products.</p>
-                <img src={imgbanner2} alt="bannercomp" style={{width:'14rem',height:'auto'}} />
             </div>
         )
     }else{

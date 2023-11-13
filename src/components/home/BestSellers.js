@@ -20,7 +20,7 @@ function BestSellers({handleAddComp,handleCarts}) {
             {topProducts.map((items,index) =>{
                 return(
                     <div className='bestsaler-container-item' key={index}>
-                        <ProductDetailsItems id={items.id} name={items.name} price={items.price} status={items.status} brand={items.brand.name} images={items.images[0].path} handleAddComp={handleAddComp} handleCarts={handleCarts}/>
+                        <ProductDetailsItems id={items.id} name={items.name} price={items.price} status={items.status} brand={items.brand.name} images={items.images[0].path} handleAddComp={handleAddComp} handleCarts={handleCarts} desc={items.desc[0]}/>
                     </div>
 
                 )

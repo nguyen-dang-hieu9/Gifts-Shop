@@ -45,6 +45,7 @@ function BrandsProduct({ handleAddComp }) {
                                 brand={item.brand.name}
                                 images={item.images[0].path}
                                 handleAddComp={handleAddComp}
+                                desc={item.desc[0]}
                             />
                         </div>
                     ))}

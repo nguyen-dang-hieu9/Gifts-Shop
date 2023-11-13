@@ -1,14 +1,13 @@
 import './NavMain.scss'
 import React from 'react'
 import { NavLink, Link } from "react-router-dom";
-import { useLocation } from 'react-router-dom';
 import categories from '../products/Products/Categories.json';
 import brands from '../products/Products/Brands.json'
 
 export default function NavMain(){
     const menuList=categories;
     const brandList=brands;
-    let location=useLocation().pathname;
+  
     return (
         <div className="nav">
             <nav className="nav-main">
@@ -57,7 +56,7 @@ export default function NavMain(){
                         </div>
                     </li>
                     <li className="nav-main-ul-li">
-                        <NavLink to="/contact" className={(navData) => (navData.isActive ? "active-style" : 'none')} style={{color: '#515151'}}>Contact</NavLink>
+                        <NavLink to="/contact" className={(navData) => (navData.isActive ? "active-style" : 'none')} style={{color: '#515151'}}>Contact Us</NavLink>
                     </li>
                     <li className="nav-main-ul-li">
                         <NavLink to="/about-us" className={(navData) => (navData.isActive ? "active-style" : 'none')} style={{color: '#515151'}}>About Us</NavLink>

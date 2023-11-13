@@ -3,7 +3,7 @@
     min-height: 29rem;
     background-color: rgb(255, 255, 255);
     border: 1px solid #bebebe;
-    border-radius: 7px;
+    border-radius: 10px;
     margin: 3px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     &.productdetails:hover{
@@ -21,7 +21,7 @@
             background-color: rgba(235, 234, 234, 0.86);
             width: 50px;
             height: 24px;
-            border-radius: 0px 3px 3px 0px;
+            border-radius: 0px;
             &-text {
                 font-weight: 600;
             }
@@ -35,9 +35,9 @@
     }
     &-content {
         margin: 0px 10px;
-        padding: 0px;
+        padding: 3px;
         border-radius: 7px;
-        background-color: rgb(225, 225, 225);
+        background-color: #C2D995;
         text-align: left;
         &-h3 {
             margin: 3px 10px;
@@ -47,7 +47,7 @@
             overflow: hidden;
             text-overflow: ellipsis;
             white-space: nowrap;
-            color: #515151;
+            color: black;
         }
         & a{
             text-decoration: none;
@@ -78,30 +78,20 @@
         width: 100%;
         justify-content: center;
         align-items: center;
-        margin-top: 10px;
+        padding-top: 8px;
+        padding-bottom: 8px;
         a {
             text-decoration: none;
         }
         :hover {
-            color: #ffffff;
+            color: #E3D5B8;
             background-color: #59bfd3df;
         }
         &-details {
-            height: 28px;
-            border-radius: 14px;
-            border: 0px solid #fff;
-            font-weight: 600;
-            display: flex;
-            flex-direction: row;
-            justify-content: center;
-            align-items: center;
-            cursor: pointer;
-        }
-        &-addToCart {
-            height: 28px;
+            height: 30px;
             margin: 5px;
-            border-radius: 14px;
-            border: 0px solid #fff;
+            border-radius: 48px;
+            border: 0px solid #E3D5B8;
             font-weight: 600;
             display: flex;
             flex-direction: row;

@@ -1,9 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./ProductDetailsItems.scss";
-import detailsicon from "../../../stories/icons/more-information.png";
-// import carticon from "../../../stories/icons/add-to-cart.png";
-import compareicon from "../../../stories/icons/compare.png";
 
 function ProductDetailsItems(props) {
     const item = props;
@@ -43,31 +40,12 @@ function ProductDetailsItems(props) {
                 >
                     <button className="productdetails-button-details">
                         <p className="productdetails-button-p">Details</p>
-                        <img
-                            src={detailsicon}
-                            alt="detailsicon"
-                            className="productdetails-button-icon"
-                        />
+                        <i class="fas fa-circle-info"></i>
                     </button>
                 </Link>
-                {/* <button className="productdetails-button-addToCart">
-                    <p className="productdetails-button-p">Add To Cart</p>
-                    <img
-                        src={carticon}
-                        alt="carticon"
-                        className="productdetails-button-icon"
-                    />
-                </button> */}
-                <button
-                    className="productdetails-button-addToCart"
-                    onClick={() => props.handleAddComp(item.id)}
-                >
+                <button className="productdetails-button-details">
                     <p className="productdetails-button-p">Compare</p>
-                    <img
-                        src={compareicon}
-                        alt="compareicon"
-                        className="productdetails-button-icon"
-                    />
+                    <i class="fas fa-scale-balanced"></i>
                 </button>
             </div>
         </div>

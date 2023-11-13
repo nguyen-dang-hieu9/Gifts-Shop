@@ -39,13 +39,13 @@
     &-wrapper {
         max-width: 992px;
         text-align: center;
-
+        margin: 10px;
         &-info {
             display: flex;
             flex-direction: column;
             flex-wrap: wrap;
             width: auto;
-            
+            box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
         }
         &-content {
             padding: 10px;
@@ -54,7 +54,6 @@
             flex-direction: column;
             flex-wrap: wrap;
             justify-content: flex-start;
-            
             &-address {
                 flex: 2;
             }
@@ -103,4 +102,7 @@
 .container-contact {
     display: flex;
     width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid #bebebe;
+    padding:10px;
 }

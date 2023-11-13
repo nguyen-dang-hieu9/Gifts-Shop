@@ -1,382 +1,580 @@
 [
     {
-        "id" : 1,
-        "name" : "Enamel Mug",
-        "top" :1,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 1,
-                "name" : "Mugs"
-            }
-        ,
+        "id": 1,
+        "name": "Enamel Mug",
+        "top": 1,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
         "price": "20.00",
-        "status":"New",
-        "desc" : ["This personalized enamel - leather mug is the perfect gift for nature, camping, travel and coffee lovers! Very good choice as a gift!","Enamel mug is covered with genuine leather."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Enamel-Mug/1.webp"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Enamel-Mug/2.webp"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Enamel-Mug/3.webp"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Enamel-Mug/4.webp"}
+        "status": "New",
+        "desc": [
+            "This personalized enamel - leather mug is the perfect gift for nature, camping, travel and coffee lovers! Very good choice as a gift!",
+            "Enamel mug is covered with genuine leather."
         ],
-        "detail" :[
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Enamel-Mug/1.webp"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Enamel-Mug/2.webp"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Enamel-Mug/3.webp"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Enamel-Mug/4.webp"
+            }
+        ],
+        "detail": [
             "Handmade",
             "Materials: Enamel, Genuine Leather, Brass Studs, Waxed Rope",
             "Capacity: 12 fluid ounces",
             "Enamel mug is covered with genuine leather."
         ],
-        "file":"/data/EtsyGifts/Mugs/Enamel-Mug/Enamel-Mug.docx"
+        "file": "/data/EtsyGifts/Mugs/Enamel-Mug/Enamel-Mug.docx"
     },
     {
-        "id" : 2,
-        "name" : "Coffee Mug",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 1,
-                "name" : "Mugs"
-            }
-        ,
+        "id": 2,
+        "name": "Coffee Mug",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
         "price": "6.00",
-        "status":"New",
-        "desc" : ["Unleash your creativity with this incredible mockup designed specifically for the 6 oz white coffee mug.","Whether you're a seasoned designer or just starting out, this versatile product mock-up is perfect for showcasing your designs."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Coffee-Mug/1.webp"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Coffee-Mug/2.webp"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Coffee-Mug/3.webp"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Coffee-Mug/4.webp"}
+        "status": "New",
+        "desc": [
+            "Unleash your creativity with this incredible mockup designed specifically for the 6 oz white coffee mug.",
+            "Whether you're a seasoned designer or just starting out, this versatile product mock-up is perfect for showcasing your designs."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Coffee-Mug/1.webp"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Coffee-Mug/2.webp"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Coffee-Mug/3.webp"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Coffee-Mug/4.webp"
+            }
+        ],
+        "detail": [
             "Handmade",
             "Dimensions: height 4.3 inches, diameter 2.8 inches",
             "8 oz stainless steel water tumbler with label craftsmanship, simple and beautiful."
-        ]
-        ,    
-        "file":"/data/EtsyGifts/Mugs/Coffee-Mug/Coffee-Mug.docx"
+        ],
+        "file": "/data/EtsyGifts/Mugs/Coffee-Mug/Coffee-Mug.docx"
     },
     {
-        "id" : 3,
-        "name" : "Bookshelf Mug",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 1,
-                "name" : "Mugs"
-            }
-        ,
+        "id": 3,
+        "name": "Bookshelf Mug",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 1,
+            "name": "Mugs"
+        },
         "price": "2.50",
-        "status":"New",
-        "desc" : ["Unleash your creativity with this incredible mockup designed specifically for the 6 oz white coffee mug.","Whether you're a seasoned designer or just starting out, this versatile product mock-up is perfect for showcasing your designs."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/1.webp"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/2.webp"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/3.webp"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/4.webp"}
+        "status": "New",
+        "desc": [
+            "Unleash your creativity with this incredible mockup designed specifically for the 6 oz white coffee mug.",
+            "Whether you're a seasoned designer or just starting out, this versatile product mock-up is perfect for showcasing your designs."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/1.webp"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/2.webp"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/3.webp"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Mugs/Bookshelf-Mug/4.webp"
+            }
+        ],
+        "detail": [
             "Handmade",
             "3D Book Mug Wrap",
             "Dimensions: height 4.3 inches, diameter 2.8 inches"
         ],
-        "files":"/data/EtsyGifts/Mugs/Bookshelf-Mug/Bookshelf-Mug.docx"
+        "files": "/data/EtsyGifts/Mugs/Bookshelf-Mug/Bookshelf-Mug.docx"
     },
     {
-        "id" : 4,
-        "name" : "Birthday Card",
-        "top" :1,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 3,
-                "name" : "Cards"
-            }
-        ,
+        "id": 4,
+        "name": "Birthday Card",
+        "top": 1,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
         "price": "6.50",
-        "status":"New",
-        "desc" : ["This cute cat birthday card is the best way to express love to someone whose love language is cat memes! A fun and unique birthday card to remind your favourite person that they are loved","Designed and made by Mona Mauve "],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Cards/Birthday-Card/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Cards/Birthday-Card/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Cards/Birthday-Card/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Cards/Birthday-Card/4.avif"}
+        "status": "New",
+        "desc": [
+            "This cute cat birthday card is the best way to express love to someone whose love language is cat memes! A fun and unique birthday card to remind your favourite person that they are loved",
+            "Designed and made by Mona Mauve "
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Birthday-Card/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Birthday-Card/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Birthday-Card/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Birthday-Card/4.avif"
+            }
+        ],
+        "detail": [
             "Handmade",
             "Comes with a kraft envelope and a free sticker.",
             "A6 (small) = 5.8 x 4.1 in = 148 x 105 mm"
         ],
-        "files":"/data/EtsyGifts/Cards/Birthday-Card/Birthday-Card.docx"
+        "files": "/data/EtsyGifts/Cards/Birthday-Card/Birthday-Card.docx"
     },
     {
-        "id" : 5,
-        "name" : "Business Card",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 3,
-                "name" : "Cards"
-            }
-        ,
+        "id": 5,
+        "name": "Business Card",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
         "price": "1.80",
-        "status":"New",
-        "desc" : ["This business card template features a modern and eye-catching design that will make a lasting impression on potential clients. ","This business card contains all your photography business essential information and your customised QR code will send your clients and potential clients directly to your instagram when scanned."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Cards/Business-Card/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Cards/Business-Card/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Cards/Business-Card/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Cards/Business-Card/4.avif"}
+        "status": "New",
+        "desc": [
+            "This business card template features a modern and eye-catching design that will make a lasting impression on potential clients. ",
+            "This business card contains all your photography business essential information and your customised QR code will send your clients and potential clients directly to your instagram when scanned."
         ],
-        "detail" : [
-            "Handmade",
-            "2-sides Business Card",
-            "3.5 x 2 inches"
-        ],           
-        "files":"/data/EtsyGifts/Cards/Business-Card/Business-Card.docx"
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Business-Card/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Business-Card/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Business-Card/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Business-Card/4.avif"
+            }
+        ],
+        "detail": ["Handmade", "2-sides Business Card", "3.5 x 2 inches"],
+        "files": "/data/EtsyGifts/Cards/Business-Card/Business-Card.docx"
     },
     {
-        "id" : 6,
-        "name" : "Greeting Card",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 3,
-                "name" : "Cards"
-            }
-        ,
+        "id": 6,
+        "name": "Greeting Card",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 3,
+            "name": "Cards"
+        },
         "price": "5.50",
-        "status":"New",
-        "desc" : ["The frog is considered to bring good luck, representing good things returning.","A contemporary romantic adaptation of a woodblock print from 1814 by Matsumoto Hoji."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Cards/Greeting-Card/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Cards/Greeting-Card/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Cards/Greeting-Card/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Cards/Greeting-Card/4.avif"}
+        "status": "New",
+        "desc": [
+            "The frog is considered to bring good luck, representing good things returning.",
+            "A contemporary romantic adaptation of a woodblock print from 1814 by Matsumoto Hoji."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Greeting-Card/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Greeting-Card/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Greeting-Card/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Cards/Greeting-Card/4.avif"
+            }
+        ],
+        "detail": [
             "Handmade",
             "A6 size (148mm x 105mm)",
             "Blank inside",
             "Produced in London"
         ],
-        "files":"/data/EtsyGifts/Cards/Greeting-Card/Greeting-Card.docx"
+        "files": "/data/EtsyGifts/Cards/Greeting-Card/Greeting-Card.docx"
     },
     {
-        "id" : 7,
-        "name" : "Strawberry Quartz Bracelet",
-        "top" :1,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 2,
-                "name" : "Bracelets"
-            }
-        ,
+        "id": 7,
+        "name": "Strawberry Quartz Bracelet",
+        "top": 1,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 2,
+            "name": "Bracelets"
+        },
         "price": "350.00",
-        "status":"New",
-        "desc" : ["Strawberry Quartz is a very powerful crystal, yet its energies are very gentle, loving, and supportive.","It is also known as the “Stone of Inner Love” for its ability to protect, nurture, and love."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/1.jpg"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/2.jpg"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/3.jpg"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/4.jpg"}
+        "status": "New",
+        "desc": [
+            "Strawberry Quartz is a very powerful crystal, yet its energies are very gentle, loving, and supportive.",
+            "It is also known as the “Stone of Inner Love” for its ability to protect, nurture, and love."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/1.jpg"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/4.jpg"
+            }
+        ],
+        "detail": [
             "Handmade item",
             "Materials: Silver",
             "Style: Victorian",
             "Made to Order"
         ],
-        "files":"/data/EtsyGifts/Bracelets/Strawberry-Bracelet/Strawberry-Bracelet.docx"
+        "files": "/data/EtsyGifts/Bracelets/Strawberry-Bracelet/Strawberry-Bracelet.docx"
     },
     {
-        "id" : 8,
-        "name" : "Flower Bracelet",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 2,
-                "name" : "Bracelets"
-            }
-        ,
+        "id": 8,
+        "name": "Flower Bracelet",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 2,
+            "name": "Bracelets"
+        },
         "price": "12.00",
-        "status":"New",
-        "desc" : ["Our Beaded Flower Bracelet is handmade using gold , colour coloured seed beads and 3mm rondelle crystal beads.","Thread may be visible as it is a handmade product."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/4.avif"}
+        "status": "New",
+        "desc": [
+            "Our Beaded Flower Bracelet is handmade using gold , colour coloured seed beads and 3mm rondelle crystal beads.",
+            "Thread may be visible as it is a handmade product."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Flower-Bracelet/4.avif"
+            }
+        ],
+        "detail": [
             "Handmade item",
             "Length: 6.5 inches with 2 inch extension chain (altogether 8.5 inches)",
             "Made to Order"
         ],
-        "files":"/data/EtsyGifts/Bracelets/Flower-Bracelet/Flower-Bracelet/docx"
+        "files": "/data/EtsyGifts/Bracelets/Flower-Bracelet/Flower-Bracelet/docx"
     },
     {
-        "id" : 9,
-        "name" : "Birthstone Bracelet",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 2,
-                "name" : "Bracelets"
-            }
-        ,
+        "id": 9,
+        "name": "Birthstone Bracelet",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 2,
+            "name": "Bracelets"
+        },
         "price": "19.25",
-        "status":"New",
-        "desc" : ["Our Initial & Birthstone bracelet is simply beautiful and has a classic style.","This bracelet is great for casual wear, and has a fashionable design."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/4.avif"}
+        "status": "New",
+        "desc": [
+            "Our Initial & Birthstone bracelet is simply beautiful and has a classic style.",
+            "This bracelet is great for casual wear, and has a fashionable design."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/4.avif"
+            }
+        ],
+        "detail": [
             "Handmade item",
             "Gemstone: Cubic zirconia",
             "Style: Minimalist",
             "Can be personalized"
         ],
-        "files":"/data/EtsyGifts/Bracelets/Birthstone-Bracelet/Birthstone-Bracelet.docx"
+        "files": "/data/EtsyGifts/Bracelets/Birthstone-Bracelet/Birthstone-Bracelet.docx"
     },
     {
-        "id" : 10,
-        "name" : "Teddy Bear Flying Rainbow Balloons",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 4,
-                "name" : "Balloons"
-            }
-        ,
+        "id": 10,
+        "name": "Teddy Bear Flying Rainbow Balloons",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
         "price": "120.00",
-        "status":"New",
-        "desc" : ["Neutral baby mobile featuring a little bear flying balloons in pastel rainbow colors, surrounded by clouds with a rainbow bunting banner.","This adorable neutral gender baby mobile will capture everyone's attention and would make the cutest addition to any nursery decor."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/2.jpg"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/4.jpg"}
+        "status": "New",
+        "desc": [
+            "Neutral baby mobile featuring a little bear flying balloons in pastel rainbow colors, surrounded by clouds with a rainbow bunting banner.",
+            "This adorable neutral gender baby mobile will capture everyone's attention and would make the cutest addition to any nursery decor."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Teddy-Balloon/4.jpg"
+            }
+        ],
+        "detail": [
             "Handmade item",
             "Materials: 100 percent wool felt",
             "Bear: approx 4.3 inches in height (10,5 cm)"
         ],
-        "files":"/data/EtsyGifts/Balloons/Teddy-Balloon/Teddy-Balloon.docx"
+        "files": "/data/EtsyGifts/Balloons/Teddy-Balloon/Teddy-Balloon.docx"
     },
     {
-        "id" : 11,
-        "name" : "Rainbow Foil Balloon",
-        "top" :1,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 4,
-                "name" : "Balloons"
-            }
-        ,
+        "id": 11,
+        "name": "Rainbow Foil Balloon",
+        "top": 1,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
         "price": "2.75",
-        "status":"New",
-        "desc" : ["This graphics pack contains 42 individual elements: capital letters, numbers, shapes and confetti in iridescent pastel rainbow foil.","Use them to design your own invitations, party props, web decor, or any of your creative projects!"],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/2.avif"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/3.avif"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/4.avif"}
+        "status": "New",
+        "desc": [
+            "This graphics pack contains 42 individual elements: capital letters, numbers, shapes and confetti in iridescent pastel rainbow foil.",
+            "Use them to design your own invitations, party props, web decor, or any of your creative projects!"
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/2.avif"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/3.avif"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Rainbow-Balloon/4.avif"
+            }
+        ],
+        "detail": [
             "Handmade",
             "More colors available! ",
             "They will stand out beautifully against dark or light backgrounds."
         ],
-        "files":"/data/EtsyGifts/Balloons/Rainbow-Balloon/Rainbow-Balloon.docx"
+        "files": "/data/EtsyGifts/Balloons/Rainbow-Balloon/Rainbow-Balloon.docx"
     },
     {
-        "id" : 12,
-        "name" : "Porcelain Balloon",
-        "top" :2,
-        "brand" : 
-            {   "id" : 3,
-                "name" : "Etsy Gifts"
-            }
-        ,
-        "categories" : 
-            {
-                "id" : 4,
-                "name" : "Balloons"
-            }
-        ,
+        "id": 12,
+        "name": "Porcelain Balloon",
+        "top": 2,
+        "brand": { "id": 3, "name": "Etsy Gifts" },
+        "categories": {
+            "id": 4,
+            "name": "Balloons"
+        },
         "price": "70.00",
-        "status":"New",
-        "desc" : ["These porcelain balloons have been designed, moulded and cast from start to finish by RMC Ceramics - they are totally unique and cannot be purchased anywhere else.","With lights inside the translucent ballooons glow beautifully."],
-        "images":[
-            {"id": "1", "name": "pic1", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/1.avif"},
-            {"id": "2", "name": "pic2", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/2.jpg"},
-            {"id": "3", "name": "pic3", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/3.jpg"},
-            {"id": "4", "name": "pic4", "use": "desc" , "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/4.jpg"}
+        "status": "New",
+        "desc": [
+            "These porcelain balloons have been designed, moulded and cast from start to finish by RMC Ceramics - they are totally unique and cannot be purchased anywhere else.",
+            "With lights inside the translucent ballooons glow beautifully."
         ],
-        "detail" : [
+        "images": [
+            {
+                "id": "1",
+                "name": "pic1",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/1.avif"
+            },
+            {
+                "id": "2",
+                "name": "pic2",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/2.jpg"
+            },
+            {
+                "id": "3",
+                "name": "pic3",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/3.jpg"
+            },
+            {
+                "id": "4",
+                "name": "pic4",
+                "use": "desc",
+                "path": "/data/EtsyGifts/Balloons/Porcelain-Balloon/4.jpg"
+            }
+        ],
+        "detail": [
             "Handmade item",
             "Weight (lbs): 1.2 lbs (Hollow inside)",
             "Size (inches): Length: 6.7 in x Width: 5.1 in x Depth: 5.5 in",
             "Colours available are Red, Blue, Yellow, Green, Pink, Baby Blue and Grey."
-
         ],
-        "files":"/data/EtsyGifts/Balloons/Porcelain-Balloon/Porcelain-Balloon.docx"
+        "files": "/data/EtsyGifts/Balloons/Porcelain-Balloon/Porcelain-Balloon.docx"
     },
     {
         "id": 13,
@@ -786,7 +984,9 @@
             "name": "Balloons"
         },
         "price": "14.80",
-        "desc": ["bubble balloon with mini balloons filling, customisable with birthday boy/girl's name."],
+        "desc": [
+            "bubble balloon with mini balloons filling, customisable with birthday boy/girl's name."
+        ],
         "images": [
             {
                 "id": "1",
@@ -858,9 +1058,7 @@
             "name": "Balloons"
         },
         "price": "42.08",
-        "desc": [
-            "Customised 'Happy Birthday' Bubble Balloon Package"
-        ],
+        "desc": ["Customised 'Happy Birthday' Bubble Balloon Package"],
         "images": [
             {
                 "id": "1",
@@ -896,7 +1094,7 @@
             "id": 5,
             "name": "Christmas card"
         },
-        "price": "95,611",
+        "price": "2,4",
         "status": "New",
         "desc": [
             "This Christmas Card is perfect for your creative Christmas greeting"
@@ -927,15 +1125,13 @@
                 "path": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard4.png"
             }
         ],
-        "detail": 
-             [
-                "Paper Type: Matte",
-                "Size: 6” x 6” Linen Card",
-                "High quality, full-color, full-bleed printing on both sides",
-                "300gsm Card with 120gsm envelope",
-                "Recycled, Made in the U.K"
-            ]
-        ,
+        "detail": [
+            "Paper Type: Matte",
+            "Size: 6” x 6” Linen Card",
+            "High quality, full-color, full-bleed printing on both sides",
+            "300gsm Card with 120gsm envelope",
+            "Recycled, Made in the U.K"
+        ],
         "file": "data/ZazzleGifts/Christmascard/Festivecasualchristmascard/Festivecasualchristmascard.docx"
     },
     {
@@ -950,7 +1146,7 @@
             "id": 5,
             "name": "Christmas card"
         },
-        "price": "109,718",
+        "price": "3,9",
         "status": "New",
         "desc": ["The perfect Christmas card for any Beatles Superfan!"],
         "images": [
@@ -973,14 +1169,13 @@
                 "path": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard3.png"
             }
         ],
-        "detail": 
-            [
-                "Paper Type: Matte",
-                "Size: 5' L x 7' H (portrait); 7' L x 5' H (landscape)",
-                "A classic, all around paper with a natural feel and an uncoated matte finish",
-                "Paper is easy to write on and won't smudge",
-                "Made and printed in the USA"
-            ],
+        "detail": [
+            "Paper Type: Matte",
+            "Size: 5' L x 7' H (portrait); 7' L x 5' H (landscape)",
+            "A classic, all around paper with a natural feel and an uncoated matte finish",
+            "Paper is easy to write on and won't smudge",
+            "Made and printed in the USA"
+        ],
         "file": "/data/ZazzleGifts/Christmascard/NutcrackerChristmasCard/NutcrackerChristmasCard.docx"
     },
     {
@@ -995,7 +1190,7 @@
             "id": 5,
             "name": "Christmas card"
         },
-        "price": "78,370",
+        "price": "7,8",
         "status": "New",
         "desc": [
             "Spread joy, share cheer, merry everything and a happy always! H"
@@ -1020,14 +1215,13 @@
                 "path": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson3.png"
             }
         ],
-        "detail": 
-            [
-                "Paper Type: Semi-Gloss",
-                "Size: 4.5' L x 6.25' H (portrait); 6.25' L x 4.5' H (landscape)",
-                "Add photos and text for no additional charge",
-                "50% recycled content",
-                "Paper imported from Italy; printed in the USA"
-            ],
+        "detail": [
+            "Paper Type: Semi-Gloss",
+            "Size: 4.5' L x 6.25' H (portrait); 6.25' L x 4.5' H (landscape)",
+            "Add photos and text for no additional charge",
+            "50% recycled content",
+            "Paper imported from Italy; printed in the USA"
+        ],
         "file": "/data/ZazzleGifts/Christmascard/MerryChristmasGrandson/MerryChristmasGrandson.docx"
     },
     {
@@ -1042,7 +1236,7 @@
             "id": 6,
             "name": "Wallet"
         },
-        "price": "186,869",
+        "price": "18,6",
         "status": "New",
         "desc": [
             "Find the perfect leather wallet that speaks to your unique style."
@@ -1079,14 +1273,13 @@
                 "path": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet5.png"
             }
         ],
-        "detail": 
-            [
-                "Made from high-quality real leather for excellent quality",
-                "Soft and durable, designed to last with precise stitching and strong construction",
-                "Neatly finished edges for a polished appearance",
-                "Materials: Primary fabric type: Leather",
-                "Lightweight design ensures it's easy to use every day without being bulky"
-            ],
+        "detail": [
+            "Made from high-quality real leather for excellent quality",
+            "Soft and durable, designed to last with precise stitching and strong construction",
+            "Neatly finished edges for a polished appearance",
+            "Materials: Primary fabric type: Leather",
+            "Lightweight design ensures it's easy to use every day without being bulky"
+        ],
         "file": "/data/ZazzleGifts/Wallet/EngravedLeatherWallet/EngravedLeatherWallet.docx"
     },
     {
@@ -1101,7 +1294,7 @@
             "id": 6,
             "name": "Wallet"
         },
-        "price": "935,606",
+        "price": "29,3",
         "status": "New",
         "desc": [
             "Durable to use, with a vintage look that never goes out of style, this cardholder offers 10+ card slots. Handmade with love and care from the best quality leather for everlasting usage and quality. An exceptional cardholder for yourself or your loved ones. "
@@ -1138,14 +1331,13 @@
                 "path": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet5.png"
             }
         ],
-        "detail": 
-            [
-                "RFID blocking for contact-less credit and ID cards",
-                "Pop up aluminum credit card case with anti-skimming protection",
-                "Holds 10+ credit cards, the pop-up case holds 5-6 cards, plus 5 card slots and a wallet part to put cash or additional credit cards",
-                "Materials: RFID Blocking, Pop up aluminium frame, Antic Leather",
-                "Slim design to carry with you all the time"
-            ],
+        "detail": [
+            "RFID blocking for contact-less credit and ID cards",
+            "Pop up aluminum credit card case with anti-skimming protection",
+            "Holds 10+ credit cards, the pop-up case holds 5-6 cards, plus 5 card slots and a wallet part to put cash or additional credit cards",
+            "Materials: RFID Blocking, Pop up aluminium frame, Antic Leather",
+            "Slim design to carry with you all the time"
+        ],
         "file": "/data/ZazzleGifts/Wallet/AnticMochaLeatherRFIDblockingwallet/AnticMochaLeatherRFIDblockingwallet.docx"
     },
     {
@@ -1160,7 +1352,7 @@
             "id": 6,
             "name": "Wallet"
         },
-        "price": "3,542,234",
+        "price": "354",
         "status": "New",
         "desc": [
             "Its compact format delight whose carry a lot in minimum space!"
@@ -1197,14 +1389,13 @@
                 "path": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen5.png"
             }
         ],
-        "detail": 
-            [
-                "Product dimensions Open: 18 x 11.5 cm",
-                "Product dimensions Closed: 9 x 11.5 cm",
-                "All my creations are handmade, handcrafted, respecting the traditions of my craft as a leather craftsman",
-                "Materials: Badalassi Carlo leather",
-                "The products are cut, worked and assembled by hand"
-            ],
+        "detail": [
+            "Product dimensions Open: 18 x 11.5 cm",
+            "Product dimensions Closed: 9 x 11.5 cm",
+            "All my creations are handmade, handcrafted, respecting the traditions of my craft as a leather craftsman",
+            "Materials: Badalassi Carlo leather",
+            "The products are cut, worked and assembled by hand"
+        ],
         "file": "/data/ZazzleGifts/Wallet/LeatherWalletformen/LeatherWalletformen.docx"
     },
     {
@@ -1219,7 +1410,7 @@
             "id": 7,
             "name": "Watch"
         },
-        "price": "984,375",
+        "price": "984",
         "status": "New",
         "desc": [
             "Perfect blend of imported technology, highest craftsmanship."
@@ -1256,14 +1447,13 @@
                 "path": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch5.png"
             }
         ],
-        "detail": 
-            [
-                "Imported Technology and highest standards of craftsmanship",
-                "Watch Face Diameter: 44mm",
-                "Case Thickness: 11mm",
-                "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm (additional bracelet can be added)",
-                "Materials: Stainless steel, Wood"
-            ],
+        "detail": [
+            "Imported Technology and highest standards of craftsmanship",
+            "Watch Face Diameter: 44mm",
+            "Case Thickness: 11mm",
+            "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm (additional bracelet can be added)",
+            "Materials: Stainless steel, Wood"
+        ],
         "file": "/data/ZazzleGifts/Watch/DODODEERWoodenWatch/DODODEERWoodenWatch.docx"
     },
     {
@@ -1278,7 +1468,7 @@
             "id": 7,
             "name": "Watch"
         },
-        "price": "1,136,111",
+        "price": "1,136",
         "status": "New",
         "desc": [
             "Paul Tian Groomsmen is a big-faced timepiece that never go out of style."
@@ -1315,14 +1505,14 @@
                 "path": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch5.png"
             }
         ],
-        "detail":[
-                "Mineral Crystal Glass",
-                "Precise Miyota Movement",
-                "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm and it's made with Wood and Steel. The size is adjustable by a tool provided in the box.",
-                "Case Thickness: 11mm",
-                "Watch Face Diameter: 44mm",
-                "Made from Premium Indonesian Blackwood"
-            ],
+        "detail": [
+            "Mineral Crystal Glass",
+            "Precise Miyota Movement",
+            "The total length of Watch Band with the Watch Face is 8.3 inch or 21.5cm and it's made with Wood and Steel. The size is adjustable by a tool provided in the box.",
+            "Case Thickness: 11mm",
+            "Watch Face Diameter: 44mm",
+            "Made from Premium Indonesian Blackwood"
+        ],
         "file": "/data/ZazzleGifts/Watch/PaulTianGroomsmenWatch/PaulTianGroomsmenWatch.docx"
     },
     {
@@ -1337,7 +1527,7 @@
             "id": 7,
             "name": "Watch"
         },
-        "price": "2,083,081",
+        "price": "283",
         "status": "New",
         "desc": [
             "Best selling for Christmas 2023 for your husband, brother and family "
@@ -1393,13 +1583,13 @@
             }
         ],
         "detail": [
-                "Material: Wood, Stainless steel",
-                "Band length: 22 cm / 8.7 inch",
-                "Band width: 13.8 mm / 0.7 inch",
-                "Dial size: 47 mm / 1.8 inch",
-                "Case thickness: 14 mm / 0,5 inch",
-                "12-month Warranty. If your watch is out of warranty, we offer repair services"
-            ],
+            "Material: Wood, Stainless steel",
+            "Band length: 22 cm / 8.7 inch",
+            "Band width: 13.8 mm / 0.7 inch",
+            "Dial size: 47 mm / 1.8 inch",
+            "Case thickness: 14 mm / 0,5 inch",
+            "12-month Warranty. If your watch is out of warranty, we offer repair services"
+        ],
         "file": "/data/ZazzleGifts/Watch/VincentAutomaticWatch/VincentAutomaticWatch.docx"
     },
     {
@@ -1414,7 +1604,7 @@
             "id": 8,
             "name": "Keychain"
         },
-        "price": "347.727",
+        "price": "34,7",
         "status": "New",
         "desc": [
             "This heavy duty keychain is the perfect piece to go with your keys!"
@@ -1452,11 +1642,11 @@
             }
         ],
         "detail": [
-                "Material: leather, horween leather, genuine leather, metal, keyring",
-                "5' x 1'",
-                "Up to 10 characters per line. (2 line max.)",
-                "Handmade in my studio"
-            ],
+            "Material: leather, horween leather, genuine leather, metal, keyring",
+            "5' x 1'",
+            "Up to 10 characters per line. (2 line max.)",
+            "Handmade in my studio"
+        ],
         "file": "/data/ZazzleGifts/Keychain/LeatherKeychain/LeatherKeychain.docx"
     },
     {
@@ -1471,7 +1661,7 @@
             "id": 8,
             "name": "Keychain"
         },
-        "price": "514,986",
+        "price": "5,14",
         "status": "New",
         "desc": ["Beautiful partner keychain made of walnut wood."],
         "images": [
@@ -1519,11 +1709,11 @@
             }
         ],
         "detail": [
-                "Material: wood",
-                "The dimensions of each pendant: 6.5 x 1.8 cm",
-                "Handmade",
-                "Each key ring becomes absolutely unique thanks to the engraving you want ♥"
-            ],
+            "Material: wood",
+            "The dimensions of each pendant: 6.5 x 1.8 cm",
+            "Handmade",
+            "Each key ring becomes absolutely unique thanks to the engraving you want ♥"
+        ],
         "file": "/data/ZazzleGifts/Keychain/WoodKeychain/WoodKeychain.docx"
     },
     {
@@ -1538,7 +1728,7 @@
             "id": 8,
             "name": "Keychain"
         },
-        "price": "871,473",
+        "price": "8,71",
         "status": "New",
         "desc": [
             "This lovely personalized keychain is made entirely of 100% natural leather. "
@@ -1576,14 +1766,13 @@
             }
         ],
         "detail": [
-                "Material: Genuine Leather, Cotton Velveteen",
-                "Size: 6.5cm x 6.5cm",
-                "Handmade",
-                "This design can also be used as a handbag charm to add style to your bag - a lovely bag charm",
-                "This lovely leather keychain is handcrafted from high quality leather",
-                "It's filled with cotton fleece for a 3D look and soft feel."
-            ],
+            "Material: Genuine Leather, Cotton Velveteen",
+            "Size: 6.5cm x 6.5cm",
+            "Handmade",
+            "This design can also be used as a handbag charm to add style to your bag - a lovely bag charm",
+            "This lovely leather keychain is handcrafted from high quality leather",
+            "It's filled with cotton fleece for a 3D look and soft feel."
+        ],
         "file": "/data/ZazzleGifts/Keychain/HuskyKeychain/HuskyKeychain.docx"
     }
-
 ]

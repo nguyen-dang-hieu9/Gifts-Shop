@@ -12,8 +12,8 @@ function BestSellers({ handleAddComp, handleCarts }) {
             <h1 className="bestsaler-title">Best Salers</h1>
             <h5 className="bestsaler-button">
                 <Link to="/products">
-                    More... &nbsp;
-                    <i className="fa-solid fa-arrow-right"></i>
+                Others Products &nbsp;
+                    <i className="fas fa-hand-point-right"></i>
                 </Link>
             </h5>
             <div className="bestsaler-container">

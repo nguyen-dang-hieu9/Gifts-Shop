@@ -1,16 +1,16 @@
-.contact{
+.contact {
     width: 100%;
     display: flex;
     justify-content: center;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    &-banner{
+    &-banner {
         position: relative;
         width: 100%;
         height: 300px;
         overflow: hidden;
-        &-cover{
+        &-cover {
             position: absolute;
             width: 100%;
             height: 100%;
@@ -18,16 +18,15 @@
             z-index: 3;
             opacity: 1;
         }
-        &-img{
+        &-img {
             width: 100%;
             height: auto;
             position: absolute;
             bottom: -20%;
             z-index: 1;
         }
-        
 
-        h1{
+        h1 {
             position: absolute;
             bottom: 50%;
             left: 50%;
@@ -37,67 +36,71 @@
             font-weight: 600;
         }
     }
-    &-wrapper{
+    &-wrapper {
         max-width: 992px;
         text-align: center;
-     
-        &-info{
+
+        &-info {
             display: flex;
-            flex-direction: row;
-            flex-wrap: wrap ;
-            width: 100%;
+            flex-direction: column;
+            flex-wrap: wrap;
+            width: auto;
+            
         }
-        &-content{
+        &-content {
             padding: 10px;
             text-align: left;
             display: flex;
-            flex-direction: row;
+            flex-direction: column;
             flex-wrap: wrap;
             justify-content: flex-start;
-            &-address{
+            
+            &-address {
                 flex: 2;
-                
             }
-            &-map{
+            &-map {
                 flex: 3;
-               
             }
         }
     }
 }
-.text-input{
+.text-input {
     flex: auto;
     height: 2.5rem;
     width: 22rem;
     margin: 0.5rem;
-    outline:none;
+    outline: none;
     border: 1px solid gainsboro;
     border-radius: 7px;
 }
-.text-area{
+.text-area {
     flex: auto;
     height: auto;
     width: 22rem;
     margin: 0.5rem;
-    outline:none;
+    outline: none;
     border: 1px solid gainsboro;
     border-radius: 7px;
 }
-.submit-button{
+.submit-button {
     flex: auto;
     width: 22rem;
     margin: 0.5rem;
     height: auto;
-    outline:none;
+    outline: none;
     border: 1px solid gainsboro;
     border-radius: 7px;
     border: 1px solid gainsboro;
     color: #636363;
     font-size: 1.2rem;
     font-weight: 500;
-    &:hover{
+    &:hover {
         background-color: #66d479;
         color: #ffffff;
         border: none;
-    }   
+    }
+}
+.container-contact {
+    display: flex;
+    width: 100%;
 }

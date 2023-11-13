@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "./ProductDetailsItems.scss";
 import detailsicon from "../../../stories/icons/more-information.png";
-import carticon from "../../../stories/icons/add-to-cart.png";
+// import carticon from "../../../stories/icons/add-to-cart.png";
 import compareicon from "../../../stories/icons/compare.png";
 
 function ProductDetailsItems(props) {
@@ -50,14 +50,14 @@ function ProductDetailsItems(props) {
                         />
                     </button>
                 </Link>
-                <button className="productdetails-button-addToCart">
+                {/* <button className="productdetails-button-addToCart">
                     <p className="productdetails-button-p">Add To Cart</p>
                     <img
                         src={carticon}
                         alt="carticon"
                         className="productdetails-button-icon"
                     />
-                </button>
+                </button> */}
                 <button
                     className="productdetails-button-addToCart"
                     onClick={() => props.handleAddComp(item.id)}

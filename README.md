@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+<a  name="readme-top"></a>
+  
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br  />
 
-## Available Scripts
+<div  align="center">
 
-In the project directory, you can run:
 
-### `npm start`
+<img  src="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/src/assets/images/logo.png"  alt="Logo"  width="768px"  height="auto">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h3  align="center">Gifts Shop</h3>
+Gift Shop is a shop and stall specializing in selling souvenirs, gift items and gifts. Gift Shops appear in many places, places with a large number of visitors. Sales staff for the Gift Shop are called souvenir counter staff, their main job is to introduce and sell souvenir products and gifts.
+  <br  />
+  <a  href="https://github.com/nguyen-dang-hieu9/Gifts-Shop"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-### `npm test`
+  <br  /><a  href="https://gifts-shop.vercel.app/" target="_blank">View Demo</a>  . <a  href="" target="_blank">Video</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img  src="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/public/images/gifts-shop.vercel.app_.png"  alt="Logo"  width="768px"  height="auto">
 
-### `npm run build`
+  ### Built With
+  Below is the languages/libraries we used for this project:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  
+  
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![SASS]&nbsp;![REACT]
+<div  align="left">
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  
+### Features </br>
+<ol>
+<li>
+The Home Page should be created making use of Sections with a suitable logo.</br>
+</li>
+<li>
+Home Page should contain details of Gift Items with suitable images. </br>
+</li>
+<li>
+The site should display a menu which will contain the options for brief introduction about the various gift items available, location of the shop and any other information if required.
+</br>
+</li>
+<li>
+Information should be available category wise, wherein user can click on a particular category and should be able to view all the products related to the category available with complete information. Eg. Category can be “Mugs”, “Cards”, Bracelets” etc. with suitable sub-categories been defined.
+</br>
+</li>
+<li>
+Information should be categorized according to the brand names of the products like if a User wants to see only “Hallmark” products or any other company’s products then he/she can click on a Link/button/menu etc and can see only that Brand products.
+</br>
+</li>
+<li>
+  When a user selects any particular brand, a list of products for that brand will be displayed.
+</li>
+<li>
+A brief summary of features of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.
+</br>
+</li>
+<li>
+The user should also be able to compare the various products of different as well as similar brands.</br>
+</li>
+<li>
+There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email.
+</br>
+</ol>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ ## Members of group
+ ### Leader : Nguyen Dang Hieu `Student1491744`
+#### Members:
+Vo Huu Loc `Student1491495` </br>
+Pham Ngoc Duc `Student1491493` </br>
+Tran Thanh La `Student1491718` </br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[HTML]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS3]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[JS]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB

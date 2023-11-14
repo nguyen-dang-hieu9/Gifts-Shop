@@ -385,7 +385,7 @@
     {
         "id": 9,
         "name": "Birthstone Bracelet",
-        "top": 2,
+        "top": 1,
         "brand": { "id": 3, "name": "Etsy Gifts" },
         "categories": {
             "id": 2,
@@ -434,14 +434,13 @@
     {
         "id": 10,
         "name": "Teddy Bear Flying Rainbow Balloons",
-        "top": 2,
         "brand": { "id": 3, "name": "Etsy Gifts" },
         "categories": {
             "id": 4,
             "name": "Balloons"
         },
         "price": "120.00",
-        "status": "New",
+
         "desc": [
             "Neutral baby mobile featuring a little bear flying balloons in pastel rainbow colors, surrounded by clouds with a rainbow bunting banner.",
             "This adorable neutral gender baby mobile will capture everyone's attention and would make the cutest addition to any nursery decor."
@@ -530,7 +529,7 @@
     {
         "id": 12,
         "name": "Porcelain Balloon",
-        "top": 2,
+        "top": 1,
         "brand": { "id": 3, "name": "Etsy Gifts" },
         "categories": {
             "id": 4,
@@ -589,7 +588,7 @@
             "name": "Mugs"
         },
         "price": "16.77",
-        "status": "",
+        "status": "New",
         "desc": [
             "A perfect gift for that perfect couple on weddings or anniversaries. Each mug comes with a lid and metal spoon"
         ],
@@ -790,7 +789,7 @@
             "name": "Bracalets"
         },
         "price": "15.95",
-        "status": "",
+        "status": "New",
         "desc": [
             "Featuring a dinosaur charm and an adjustable bracelet, this piece of jewelry is sure to make a statement. Show your love for dinosaurs, or just add a fun touch to your outfit!"
         ],
@@ -902,7 +901,7 @@
             "name": "Cards"
         },
         "price": "27.08",
-        "status": "",
+        "status": "New",
         "desc": ["Perfect gift for a housewarming or newlywed couple."],
         "images": [
             {
@@ -1048,7 +1047,7 @@
     {
         "id": 23,
         "name": "Customised 'Happy Birthday' Bubble Balloon Package (Black & Grey)",
-        "top": 2,
+        "status": "New",
         "brand": {
             "id": 2,
             "name": "Giftr Gifts"

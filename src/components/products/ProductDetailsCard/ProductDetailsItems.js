@@ -43,7 +43,7 @@ function ProductDetailsItems(props) {
                         <i class="fas fa-circle-info"></i>
                     </button>
                 </Link>
-                <button className="productdetails-button-details">
+                <button className="productdetails-button-details" onClick={()=>props.handleAddComp(item.id)}>
                     <p className="productdetails-button-p">Compare</p>
                     <i class="fas fa-scale-balanced"></i>
                 </button>

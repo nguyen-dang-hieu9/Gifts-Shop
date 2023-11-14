@@ -1,7 +1,6 @@
 import React from 'react'
 import './ProductsComparison.scss'
 import imgbanner1 from '../../../assets/images/Comparison/banner-comparison.png'
-// import imgbanner2 from '../../../assets/images/Comparison/banner2.png'
 function ProductsComparison(props) {
     let temp = props.dataComparison;
     let handleDelitem =(id)=>{

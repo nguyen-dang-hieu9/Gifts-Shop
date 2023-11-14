@@ -24,7 +24,11 @@ function FooterMain() {
       {id : '1', info : 'Mugs', path :'/products/1'},
       {id : '2', info : 'Bracelets', path:'/products/2'},
       {id : '3', info : 'Cards', path:'/products/3'},
-      {id : '4', info : 'Balloons', path:'/products/4'}
+      {id : '4', info : 'Balloons', path:'/products/4'},
+      {id : '5', info : 'Christmas card', path:'/products/5'},
+      {id : '6', info : 'Wallet', path:'/products/6'},
+      {id : '7', info : 'Watch', path:'/products/7'},
+      {id : '8', info : 'Keychain', path:'/products/8'}
     ],
     Social : [
       {id : '1', info :'Facebook', path :'https://www.facebook.com/', icon : facebook },

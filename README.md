@@ -16,7 +16,7 @@ Gift Shop is a shop and stall specializing in selling souvenirs, gift items and 
   <a  href="https://github.com/nguyen-dang-hieu9/Gifts-Shop"><strong>Explore the source »</strong></a>
   <a  href="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/documents" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://gifts-shop.vercel.app/" target="_blank">View Demo</a>  . <a  href="" target="_blank">Video</a>
+  <br  /><a  href="https://gifts-shop.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://www.youtube.com/watch?v=hv2rqYmO-Ec" target="_blank">Video</a>
 
 <img  src="https://github.com/nguyen-dang-hieu9/Gifts-Shop/blob/main/public/images/gifts-shop.vercel.app_.png"  alt="Logo"  width="768px"  height="auto">
 
